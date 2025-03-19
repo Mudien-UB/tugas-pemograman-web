@@ -20,7 +20,7 @@ Bay Learning adalah sebuah platform e-learning interaktif yang dirancang untuk m
 
 1. **Clone Repository** (jika menggunakan Git):
    ```sh
-   git clone https://github.com/username/bay-learning-landing.git
+   git clone https://github.com/Mudien-UB/tugas-pemograman-web.git
    ```
 2. **Buka File `index.html`** dengan browser pilihan Anda.
 3. **Gunakan Live Server** (Opsional):
