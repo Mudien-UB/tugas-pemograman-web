@@ -38,9 +38,6 @@ project-directory/
 │   └── js/  (Folder untuk file JavaScript tambahan, jika ada)
 ```
 
-## Kontributor
-Dibuat oleh **Bay Learning Team**.
-
 ## Lisensi
 Proyek ini berada di bawah lisensi MIT. Anda bebas untuk menggunakannya dan memodifikasinya sesuai kebutuhan.
 
